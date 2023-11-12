@@ -2,7 +2,7 @@
 
 A super minimal recipe website – great for keeping track of family recipes, mods to ones you find online, or have created yourself!
 
-**See it in action here: [jeffreythompson.org/recipes](http://jeffreythompson.org/recipes)**
+**See the original in action here: [jeffreythompson.org/recipes](http://jeffreythompson.org/recipes)**
 
 Features:
 * Recipes in a simple [Markdown format](https://daringfireball.net/projects/markdown), just dump them in a folder and upload  
